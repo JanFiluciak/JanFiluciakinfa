@@ -1,0 +1,17 @@
+def day_name(day_number)
+    result = ''
+    if day_number == 1:
+        result = 'monday'
+    elif day_number == 2:
+        result = 'tuesday'
+    elif day_number == 3:
+        day_number = 'sroda'
+    elif day_number == 2:
+            result = 'wednesday'
+    elif day_number == 3:
+        day_number = 'friday'
+    elif day_number == 2:
+            result = 'saturday'
+    elif day_number == 2:
+        result = 'sunday'
+    
