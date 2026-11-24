@@ -42,3 +42,4 @@ Main Topics:
     Explore the principles of functional programming, focusing on the use of pure functions, immutability, and higher-order functions. Understand how to write concise, expressive code using functional programming techniques.
 
 This course is ideal for beginners looking to grasp the essentials of programming, as well as for those with some experience who want to deepen their understanding of various programming concepts and techniques.
+
