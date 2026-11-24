@@ -1,0 +1,11 @@
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
+number3 = input("Enter third number: ")
+number1 = int(number1)
+number2 = int(number2)
+number3 = int(number3)
+print('Number 1 is: ', number1)
+print('Number 2 is: ', number2)
+print('Number 3 is: ', number3)
+result = number1 + number2 + number3
+print('The result of summation is: ', result)
